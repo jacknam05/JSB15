@@ -1,0 +1,152 @@
+#container {
+    display:flex ;
+    flex-direction: column;
+}
+
+#up {
+    display: flex
+}
+
+#down {
+
+}
+
+#left{
+
+}
+
+#right {
+    margin-left: 40px;
+}
+
+#pink {
+ width: 100px;
+ height: 100px;
+ background-color: pink;   
+}
+
+#one {
+    width: 100px;
+    height: 20px ;
+    background-color: lightblue;
+}
+
+#two {
+    width: 100px;
+    height: 20px;
+    background-color: darkblue;
+}
+
+#nine_box {
+    margin-top: 20px;
+}
+
+#grey {
+    margin-top: 25px;
+    width: 100px;
+    height: 175px;
+    background-color: gray;
+}
+
+#first {
+    position: relative;
+    width: 560px;
+    height: 350px;
+    background-color: lightgreen;
+}
+
+#black_white {
+    display: flex;
+    flex-direction: column;
+}
+
+#black {
+    display: flex;
+    width: 130px;
+    height: 35px;
+    background-color: white;
+    justify-content: flex-end;
+    position: absolute;
+    right: 0px;
+    bottom: 105px;
+}
+
+#white {
+    width: 240px;
+    height: 20px;
+    background-color: black;
+    position: absolute;
+    right: 0px;
+    bottom: 95px;
+}
+
+#dark_green {
+    display: flex;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    height: 60px;
+    justify-content: space-between;
+}
+
+#lime {
+    width: 139px;
+    height: 100%;
+    background-color: darkgreen;
+}
+
+#second {
+    display: flex;
+    margin-top: 15px;
+    width: 560px;
+    height: 50px;
+    background-color: lime;
+}
+
+#Cyan {
+    width: 60%;
+    height: 100%;
+    background-color: cyan;
+}
+
+#Light_pink {
+    width: 40%;
+    height: 100%;
+    background-color: lightpink;
+}
+
+#third {
+    display: flex;
+    margin-top: 15px;
+    width: 560px;
+    height: 120px;
+    justify-content: space-between;
+
+}
+
+#light_yellow {
+    width: 130px;
+    height: 100%;
+    background-color:yellow;
+}
+
+#fourth {
+    display: flex;
+    margin-top: 10px;
+    width: 560px;
+    height: 170px;
+    justify-content: space-between;
+}
+
+#orange {
+    width: 130px;
+    height: 100%;
+    background-color: orange;
+}
+
+#down {
+    margin-top: 20px;
+    width: 700px;
+    height: 55px;
+    background-color: gray;
+}
