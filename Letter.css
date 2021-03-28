@@ -1,0 +1,26 @@
+body{
+    background: url('https://i.pinimg.com/736x/cc/f5/7f/ccf57f70756dd84d84f6db7d44330e63.jpg');
+    background-image: url("https://i.pinimg.com/736x/cc/f5/7f/ccf57f70756dd84d84f6db7d44330e63.jpg");
+    background-repeat: repeat-all;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    text-align: center;
+    color: white;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 26px;
+    text-align: center;
+    color: white;
+}
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+.TITLE {
+    margin-top: 200px ;
+}
