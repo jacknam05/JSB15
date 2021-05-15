@@ -1,0 +1,32 @@
+.body1 {
+    margin-left: 2%;
+    margin-top: 2%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#text {
+    margin-left: 10px;
+    font-size: 22px;
+}
+
+.box1 {
+    font-size: 55px;
+}
+
+#Weight {
+    font-size: 55px;
+}
+
+#Size {
+    font-size: 55px;
+    margin-left: 63px;
+}
+
+#Age {
+    font-size: 55px;
+    margin-left: 66px;
+}
+
+#button {
+    font-size: 35px;
+}
